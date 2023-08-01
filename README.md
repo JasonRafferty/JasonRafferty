@@ -11,4 +11,4 @@ Feel free to explore my repositories and reach out for collaboration or discussi
 Connect with me:
 LinkedIn: https://www.linkedin.com/in/jasonrafferty1/ 🔗
 Email: JasonRafferty98@gmail.com 📧
-Looking forward to our coding adventures! Happy coding! 💡
+
