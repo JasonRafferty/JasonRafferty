@@ -1,12 +1,17 @@
-Jason's GitHub Bio
+# Jason Rafferty
 
-Websites:
-- [Tutoring website](https://jasonrafferty.github.io/)
-- [Blackjack game](https://jasonrafferty.github.io/blackjack-game/)
-- [Traffic notifier](https://jasonrafferty.github.io/traffic-notifier/)
-- [Take-home calculator](https://jasonrafferty.github.io/take-home-calculator/)
+Building practical web projects and practising JavaScript, HTML, CSS, and front-end development.
 
-Connect with me:
-LinkedIn: https://www.linkedin.com/in/jasonrafferty1/ 🔗
-Email: JasonRafferty98@gmail.com 📧
+## Live Websites
 
+| Project | Live Site |
+| --- | --- |
+| **Tutoring Website** | [jasonrafferty.github.io](https://jasonrafferty.github.io/) |
+| **Blackjack Game** | [View site](https://jasonrafferty.github.io/blackjack-game/) |
+| **Traffic Notifier** | [View site](https://jasonrafferty.github.io/traffic-notifier/) |
+| **Take-Home Calculator** | [View site](https://jasonrafferty.github.io/take-home-calculator/) |
+
+## Connect
+
+- **LinkedIn:** [jasonrafferty1](https://www.linkedin.com/in/jasonrafferty1/)
+- **Email:** [JasonRafferty98@gmail.com](mailto:JasonRafferty98@gmail.com)
