@@ -2,13 +2,6 @@
 
 Tutor and developer. I build web apps, desktop tools and AI-assisted dev tooling, mostly in JavaScript, HTML and CSS.
 
-## 🌐 Websites
-
-| Project | What it does |
-| --- | --- |
-| [**Tutoring Website**](https://jasonrafferty.github.io/) | Subjects, pricing, availability and booking for students and parents |
-| [**Student Game Arcade**](https://github.com/JasonRafferty/student-game-arcade) | A gallery of HTML/JS games made by my tutoring students |
-
 ## 🧩 Apps & Widgets
 
 | Project | What it does |
@@ -18,6 +11,13 @@ Tutor and developer. I build web apps, desktop tools and AI-assisted dev tooling
 | [**App Drawer**](https://github.com/JasonRafferty/app-drawer) | Personal launcher for my home-server apps and project links |
 | [**Backspin**](https://github.com/JasonRafferty/backspin) | Spinning record player for your desktop with Spotify album art and quick skip (macOS/Windows) |
 | [**Claudex Monitor**](https://github.com/JasonRafferty/claudex-monitor) | Desktop widget showing Claude Code and Codex usage side by side |
+
+## 🌐 Websites
+
+| Project | What it does |
+| --- | --- |
+| [**Tutoring Website**](https://jasonrafferty.github.io/) | Subjects, pricing, availability and booking for students and parents |
+| [**Student Game Arcade**](https://github.com/JasonRafferty/student-game-arcade) | A gallery of HTML/JS games made by my tutoring students |
 
 ## 🛠️ Projects
 
